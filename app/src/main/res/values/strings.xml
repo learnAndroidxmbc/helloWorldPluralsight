@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Hello World revised.</string>
+  <string name="hello_world">Hello world! (defined in strings.xml</string>
+</resources>
